@@ -1,0 +1,33 @@
+body{
+   background-color: #222;
+   color: hsl(0, 0%, 100%);
+   
+}
+
+.container{
+
+    text-align: center ;
+    margin: auto ;
+   
+}
+
+.thambails img{
+
+    padding: 1px;
+    height: 100px;
+    border-radius: 5px;
+
+}
+
+.thambails img:hover{
+    
+    border: solid 4px #00ccff;
+    border-radius: 5%;
+
+}
+
+.preview img{
+    margin: 10px 0px ;
+    height: 500px;
+    border-radius: 5px;
+}
